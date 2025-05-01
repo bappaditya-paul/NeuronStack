@@ -1,3 +1,3 @@
 # NeuronStack
-This is my first GitHub repository
+This is my first GitHub repository.
 Author- Bappaditya Paul.
